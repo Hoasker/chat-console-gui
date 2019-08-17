@@ -118,9 +118,6 @@ class Client(LineOnlyReceiver):
             self.factory.messages.append(msg)
 
 
-
-
-
 class Server(ServerFactory):
     """Класс для управления сервером"""
 
