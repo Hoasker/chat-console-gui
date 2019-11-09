@@ -1,1 +1,1 @@
-# skillbox-chat
+# Console and GUI chat
